@@ -1,3 +1,8 @@
 add tut file
+<<<<<<< HEAD
 commit 1 master
 commit 2 master
+=======
+cm1 tmp
+cm2 tmp
+>>>>>>> tmp
